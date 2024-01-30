@@ -127,12 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="bmp_scanner.c" />
+    <ClCompile Include="bmp\bmp_scanner.c" />
     <ClCompile Include="main.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="bmp_scanner.h" />
-    <ClInclude Include="image_structs.h" />
+    <ClInclude Include="headers\bmp_scanner.h" />
+    <ClInclude Include="headers\image_structs.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

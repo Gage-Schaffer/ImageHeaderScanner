@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
-#include "image_structs.h"
+#include "..\headers\image_structs.h"
 
 
 #define NEXTBYTE() getc(infile)

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="bmp_scanner.c">
+    <ClCompile Include="bmp\bmp_scanner.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="main.c">
@@ -23,10 +23,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="bmp_scanner.h">
+    <ClInclude Include="headers\bmp_scanner.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="image_structs.h">
+    <ClInclude Include="headers\image_structs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
