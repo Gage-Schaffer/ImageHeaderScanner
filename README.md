@@ -1,1 +1,0 @@
-# ImageHeaderScanner
